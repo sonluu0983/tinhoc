@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset ="UTF-8">
+ </head>
+ <body>
+  <table width=60% align="center">
+   <tr>
+    <td align="center" width=50%><img src="https://chiemtaimobile.vn/images/companies/1/%E1%BA%A2nh%20Blog/avatar-facebook-dep/Hinh-dai-dien-hai-huoc-cam-dep-duoi-ai-do.jpg?1704789789335" width=50% height=50% align="center"></td>
+    <td width=50%>
+     <h2><p><font color="3366FF" size="30" face="Monotype Corsiva"> Information:</font></h2>
+     <ul style =font-size:"large">
+      <li><b>Họ tên: Dương Tiến Đạt </li>
+      <li><b>Ngày sinh:22/3/2007</li>
+      <li><b>Zodiac:Bạch Dương</li>
+      <li><b>Trường học: THPT Trần Đại Nghĩa
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td colspan="2">
+     <h2><p><font color="33CCFF" face="Monotype Corsiva"> Introduce:</font></h2>
+     <p align="justify" style="font-size":"large"> Tôi tên Dương Tiến Đạt,hiện tại là học sinh trường THPT Trần Đại Nghĩa. Mình là một người rất yêu thích học tập, đặc biệt là các môn học Tin học, vì mình cảm thấy rất thú vị khi khám phá những kiến thức mới. Ngoài việc học trên lớp, mình cũng rất tích cực tham gia các hoạt động ngoại khóa như bóng chuyền  vì mình tin rằng những hoạt động này giúp mình phát triển cả về thể chất lẫn tinh thần.Mình luôn cố gắng học tập chăm chỉ và rèn luyện bản thân mỗi ngày, không chỉ để đạt kết quả tốt trong học tập mà còn để trở thành một người có ích cho xã hội. Trong tương lai, mình hy vọng sẽ được học ở công nghệ, vì mình rất đam mê khoa học và lập trình.Cảm đã lắng nghe !!! Mình rất mong được học hỏi thêm và cùng các bạn chia sẻ nhiều điều thú vị trong thời gian tới.</p>
+   <iframe width="500" height="250" src="https://www.youtube.com/embed/SWibXKY1Ig8" title="Phim 4K 20 phút thư giãn - Thuỵ Sỹ thiên nhiên đẹp như tranh vẽ - Switzerland relaxation music film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+     <p style="font-size":"large"> Facebook của các bạn cùng lớp: </p>
+     <ul style="list-style-type:square">
+      <li><a href="https://www.facebook.com/thanh.dinhtien.908?mibextid=ZbWKwL">Đinh Thành Nhân</a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100076497139787&mibextid=ZbWKwL">Lưu Trường Sơn</a></li>
+      <li><a href="">Nguyễn Duy Thông</a></li>
+     </ul>
+    </p>
+   </td>
+  </tr>
+ </table>
+</body>
+</html>
